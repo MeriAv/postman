@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jfalx42diqnuv6at?svg=true)](https://ci.appveyor.com/project/MeriAv/postman)
